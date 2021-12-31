@@ -37,7 +37,7 @@ public class Person {
 	
 	@Column
 	@NonNull
-	private String name;
+	private String NAME;
 	
 	@Column
 	@NonNull
